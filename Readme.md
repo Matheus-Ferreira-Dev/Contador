@@ -1,4 +1,4 @@
-Projeto de um contador simples
+Projeto de um contador simples e responsivo
 
 [<img src="https://uploaddeimagens.com.br/images/003/970/821/full/screencapture-matheus-ferreira-dev-github-io-Contador-2022-08-05-17_48_45.png?1659732547" alt="print da tela">]
 
